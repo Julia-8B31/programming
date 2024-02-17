@@ -1,11 +1,22 @@
 #include <iostream>
 #include <cmath>
-
+/**
+ * @brief 
+ * 
+ * @param number число в 10ой системе счисления 
+ * @param base система счисления
+ * @param convertByZnachenie ункция для конвертации числа N из десятичной системы в p-ичную (по значению)
+ * @param convertToBase Перевод числа N в p-ичную систему
+ * @param convertBySsylka Функция для конвертации числа N из десятичной системы в p-ичную (по ссылке)
+ * @param convertByUkazatel Функция для конвертации числа N из десятичной системы в p-ичную (через указатель)
+ * @return std::string 
+ */
 std::string convertToBase(int number, int base) {  // Создаем строку с символами, используемыми для представления цифр в различных системах счисления
     std::string codes = "0123456789ABCDEF";  // Создаем пустую строку для хранения результата
     std::string sum = "";          // Переводим число в указанную систему счисления
     while (number > 0) {
         sum += codes[number % base];       // Делим число на основание системы счисления
+        number /= base;
     }
     std::string result = "";          // Инвертируем строку sum, чтобы получить правильный порядок цифр
     for (int i = sum.length() - 1; i >= 0; i--) result += sum[i];
@@ -21,7 +32,7 @@ std::string convertByZnachenie(int N, int p) {
 }
 
 // Функция для конвертации числа N из десятичной системы в p-ичную (по ссылке)
-void convertBySsylka(int N, int p, std::string& result) {  //, string& resul1515t -  ссылка на строку result
+void convertBySsylka(int N, int p, std::string& result) {  //, string& result -  ссылка на строку result
     result = ""; // Обнуление результата
 
     // Перевод числа N в p-ичную систему
