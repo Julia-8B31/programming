@@ -1,0 +1,23 @@
+# ninja log v5
+4443	4584	7396397674166059	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5874be43d22f83cc
+4879	5072	7396397679050565	D:/Programming/lab_4/programming/laba_7/3/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	a8b6ce630be2be61
+4291	4443	7396397672755482	D:/Programming/lab_4/programming/laba_7/3/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	61c51a535c04646
+4150	4291	7396397671237578	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	aec569052e9df06a
+4291	4443	7396397672755482	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	61c51a535c04646
+3	176	7396397630081060	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b455ea7ee72cff66
+4003	4150	7396397669827879	D:/Programming/lab_4/programming/laba_7/3/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	ecb96484d26574f
+4150	4291	7396397671237578	D:/Programming/lab_4/programming/laba_7/3/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	aec569052e9df06a
+4003	4150	7396397669827879	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	ecb96484d26574f
+4879	5072	7396397679050565	D:/Programming/lab_4/programming/laba_7/3/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	a8b6ce630be2be61
+4879	5072	7396397679050565	CMakeFiles/googletest-populate-complete	a8b6ce630be2be61
+4722	4878	7396397677116039	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	39f10350f5779f3f
+4584	4722	7396397675547587	D:/Programming/lab_4/programming/laba_7/3/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1687ea97e92acad6
+3	176	7396397630081060	D:/Programming/lab_4/programming/laba_7/3/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b455ea7ee72cff66
+4443	4584	7396397674166059	D:/Programming/lab_4/programming/laba_7/3/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5874be43d22f83cc
+176	3985	7396397668175505	D:/Programming/lab_4/programming/laba_7/3/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	3373d7830f025a0c
+176	3985	7396397668175505	D:/Programming/lab_4/programming/laba_7/3/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip	3373d7830f025a0c
+4584	4722	7396397675547587	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1687ea97e92acad6
+4879	5072	7396397679050565	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	a8b6ce630be2be61
+4722	4878	7396397677116039	D:/Programming/lab_4/programming/laba_7/3/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	39f10350f5779f3f
+176	3985	7396397668175505	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	3373d7830f025a0c
+176	3985	7396397668175505	googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip	3373d7830f025a0c

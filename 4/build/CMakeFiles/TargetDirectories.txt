@@ -1,0 +1,4 @@
+D:/Programming/lab_4/programming/laba_7/4/build/CMakeFiles/main.dir
+D:/Programming/lab_4/programming/laba_7/4/build/CMakeFiles/assert.dir
+D:/Programming/lab_4/programming/laba_7/4/build/CMakeFiles/edit_cache.dir
+D:/Programming/lab_4/programming/laba_7/4/build/CMakeFiles/rebuild_cache.dir

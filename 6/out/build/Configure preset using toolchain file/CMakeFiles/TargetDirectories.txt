@@ -1,0 +1,9 @@
+D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/test.dir
+D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/edit_cache.dir
+D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/rebuild_cache.dir
+D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/test/CMakeFiles/test1.dir
+D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/test/CMakeFiles/test2.dir
+D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/test/CMakeFiles/test3.dir
+D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/test/CMakeFiles/test.dir
+D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/test/CMakeFiles/edit_cache.dir
+D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/test/CMakeFiles/rebuild_cache.dir

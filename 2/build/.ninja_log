@@ -1,0 +1,6 @@
+# ninja log v5
+4	359	7395360051966599	CMakeFiles/laba7.dir/main.cpp.obj	13c01bcb0da4b553
+4	355	7395368661813088	CMakeFiles/assert.dir/assept.cpp.obj	58138db9c1d7e0fe
+1	391	7395367610360899	CMakeFiles/main.dir/main.cpp.obj	8de7d668206d18f4
+391	753	7395367613862079	libmain.a	1e10112794abd079
+356	519	7395368663403847	assert.exe	49075d0cff5347a1

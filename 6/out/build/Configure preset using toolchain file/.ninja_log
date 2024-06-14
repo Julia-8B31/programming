@@ -1,0 +1,12 @@
+# ninja log v5
+2	62	0	D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/cmake.verify_globs	abf81253cd161b46
+72	472	7395474945196321	test/CMakeFiles/test1.dir/test1.cpp.obj	d41a17f25b7ea2dc
+655	845	7395474948768840	test/test2.exe	f39cf8abf417caa4
+100	485	7395474945311167	test/CMakeFiles/test3.dir/test3.cpp.obj	39b9a967d07b31e9
+108	629	7395474946771606	test/CMakeFiles/test3.dir/__/mainn.cpp.obj	60211f9b35ce0f97
+86	507	7395474945502176	test/CMakeFiles/test2.dir/test2.cpp.obj	533f8d30d1339ec6
+65	529	7395474945769309	CMakeFiles/laba7.dir/mainn.cpp.obj	2221d74d508cd757
+79	641	7395474946771606	test/CMakeFiles/test1.dir/__/mainn.cpp.obj	95eca62f5714af32
+92	654	7395474946973379	test/CMakeFiles/test2.dir/__/mainn.cpp.obj	2a8db414a96d7ae4
+629	828	7395474948635518	test/test3.exe	7b230dcf0f3f2fd3
+641	836	7395474948716496	test/test1.exe	ec69622effffe9f3
