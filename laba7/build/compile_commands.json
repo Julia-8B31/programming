@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Programming/lab_4/programming/laba7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\mainN.dir\\mainN.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba7\\1\\mainN.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba7\\1\\mainN.cpp",
+  "output": "CMakeFiles\\mainN.dir\\mainN.cpp.obj"
+},
+{
+  "directory": "D:/Programming/lab_4/programming/laba7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++11 -o CMakeFiles\\assert.dir\\assert.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba7\\1\\assert.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba7\\1\\assert.cpp",
+  "output": "CMakeFiles\\assert.dir\\assert.cpp.obj"
+}
+]

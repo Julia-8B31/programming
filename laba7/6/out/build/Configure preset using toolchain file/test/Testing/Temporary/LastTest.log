@@ -1,0 +1,18 @@
+Start testing: Jun 15 10:43 RTZ 6 (çèìà)
+----------------------------------------------------------
+1/1 Testing: laba7
+1/1 Test: laba7
+Command: "D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/test/test3.exe" "COMMAND" "test3"
+Directory: D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/test
+"laba7" start time: Jun 15 10:43 RTZ 6 (çèìà)
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"laba7" end time: Jun 15 10:43 RTZ 6 (çèìà)
+"laba7" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 15 10:43 RTZ 6 (çèìà)

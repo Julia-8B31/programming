@@ -1,0 +1,23 @@
+# ninja log v5
+126863	127017	7396383267559012	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	6166ed5f77834243
+126743	126863	7396383266027089	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f0540062eddbcdd7
+1	142	7396381998793657	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	8155c69a9e5a5d85
+126604	126743	7396383264823015	D:/Programming/lab_4/programming/laba_7/8a/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	19e2b6de8b52eb89
+126604	126743	7396383264823015	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	19e2b6de8b52eb89
+127315	127530	7396383272678185	D:/Programming/lab_4/programming/laba_7/8a/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	8960d6ca8908f1f8
+126459	126603	7396383263425056	D:/Programming/lab_4/programming/laba_7/8a/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	c521099304733ea5
+126743	126863	7396383266027089	D:/Programming/lab_4/programming/laba_7/8a/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f0540062eddbcdd7
+126459	126603	7396383263425056	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	c521099304733ea5
+127315	127530	7396383272678185	D:/Programming/lab_4/programming/laba_7/8a/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8960d6ca8908f1f8
+127315	127530	7396383272678185	CMakeFiles/googletest-populate-complete	8960d6ca8908f1f8
+127174	127315	7396383270530276	D:/Programming/lab_4/programming/laba_7/8a/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	e9da702ed21c48ac
+127174	127315	7396383270530276	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	e9da702ed21c48ac
+127017	127174	7396383269123190	D:/Programming/lab_4/programming/laba_7/8a/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	2b6000f969d051db
+127017	127174	7396383269123190	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	2b6000f969d051db
+1	142	7396381998793657	D:/Programming/lab_4/programming/laba_7/8a/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	8155c69a9e5a5d85
+127315	127530	7396383272678185	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8960d6ca8908f1f8
+142	126452	7396383261902901	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	6841ee1e18c9d61e
+142	126452	7396383261902901	googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip	6841ee1e18c9d61e
+126863	127017	7396383267559012	D:/Programming/lab_4/programming/laba_7/8a/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	6166ed5f77834243
+142	126452	7396383261902901	D:/Programming/lab_4/programming/laba_7/8a/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	6841ee1e18c9d61e
+142	126452	7396383261902901	D:/Programming/lab_4/programming/laba_7/8a/out/build/Configure preset using toolchain file/_deps/googletest-subbuild/googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip	6841ee1e18c9d61e

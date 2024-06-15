@@ -1,0 +1,8 @@
+# ninja log v5
+11	464	7396396602588911	gtests/CMakeFiles/tests.dir/__/main.cpp.obj	98f35f5c4eddf337
+24	1217	7396396610125725	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	31e9986cbb5c7712
+17	7136	7396396669168705	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	dad8d076e1b1810f
+14	338	7396396760960150	lib/libgtestd.a	ca9a8d34e28e2f78
+338	668	7396396764410516	lib/libgtest_maind.a	d7737988bd18e81
+7	1079	7396397467069718	gtests/CMakeFiles/tests.dir/tests.cpp.obj	332f13eb3b3e3da7
+1080	1435	7396397470180045	gtests/tests.exe	1ba628e7c065f747

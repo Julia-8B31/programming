@@ -1,0 +1,39 @@
+# ninja log v5
+1	48	0	D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/cmake.verify_globs	abf81253cd161b46
+72	472	7395474945196321	test/CMakeFiles/test1.dir/test1.cpp.obj	d41a17f25b7ea2dc
+655	845	7395474948768840	test/test2.exe	f39cf8abf417caa4
+100	485	7395474945311167	test/CMakeFiles/test3.dir/test3.cpp.obj	39b9a967d07b31e9
+108	629	7395474946771606	test/CMakeFiles/test3.dir/__/mainn.cpp.obj	60211f9b35ce0f97
+86	507	7395474945502176	test/CMakeFiles/test2.dir/test2.cpp.obj	533f8d30d1339ec6
+65	529	7395474945769309	CMakeFiles/laba7.dir/mainn.cpp.obj	2221d74d508cd757
+79	641	7395474946771606	test/CMakeFiles/test1.dir/__/mainn.cpp.obj	95eca62f5714af32
+92	654	7395474946973379	test/CMakeFiles/test2.dir/__/mainn.cpp.obj	2a8db414a96d7ae4
+629	828	7395474948635518	test/test3.exe	7b230dcf0f3f2fd3
+641	836	7395474948716496	test/test1.exe	ec69622effffe9f3
+1	65	0	D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/cmake.verify_globs	abf81253cd161b46
+1	48	0	D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/cmake.verify_globs	abf81253cd161b46
+2	47	0	D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/cmake.verify_globs	abf81253cd161b46
+47	59	0	clean	9c4b4372737ab8da
+7	55	0	D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/cmake.verify_globs	abf81253cd161b46
+72	439	7401259656703214	test/CMakeFiles/test3.dir/test3.cpp.obj	39b9a967d07b31e9
+65	469	7401259656774910	test/CMakeFiles/test2.dir/test2.cpp.obj	533f8d30d1339ec6
+58	470	7401259656868194	test/CMakeFiles/test1.dir/test1.cpp.obj	d41a17f25b7ea2dc
+68	520	7401259657514012	test/CMakeFiles/test2.dir/__/mainn.cpp.obj	2a8db414a96d7ae4
+61	541	7401259657701771	test/CMakeFiles/test1.dir/__/mainn.cpp.obj	95eca62f5714af32
+79	568	7401259657931749	test/CMakeFiles/test3.dir/__/mainn.cpp.obj	60211f9b35ce0f97
+520	649	7401259658701294	test/test2.exe	f39cf8abf417caa4
+541	659	7401259658830846	test/test1.exe	ec69622effffe9f3
+568	702	7401259659202315	test/test3.exe	7b230dcf0f3f2fd3
+2	51	0	D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/cmake.verify_globs	abf81253cd161b46
+1	54	0	D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/cmake.verify_globs	abf81253cd161b46
+54	67	0	clean	9c4b4372737ab8da
+2	54	0	D:/Programming/lab_4/programming/laba_7/6/out/build/Configure preset using toolchain file/CMakeFiles/cmake.verify_globs	abf81253cd161b46
+64	416	7401260441164931	test/CMakeFiles/test2.dir/test2.cpp.obj	533f8d30d1339ec6
+57	416	7401260441164931	test/CMakeFiles/test1.dir/test1.cpp.obj	d41a17f25b7ea2dc
+71	429	7401260441326965	test/CMakeFiles/test3.dir/test3.cpp.obj	39b9a967d07b31e9
+79	494	7401260442001197	test/CMakeFiles/test3.dir/__/mainn.cpp.obj	60211f9b35ce0f97
+60	519	7401260442221143	test/CMakeFiles/test1.dir/__/mainn.cpp.obj	95eca62f5714af32
+67	543	7401260442493663	test/CMakeFiles/test2.dir/__/mainn.cpp.obj	2a8db414a96d7ae4
+494	609	7401260443053381	test/test3.exe	7b230dcf0f3f2fd3
+519	642	7401260443369900	test/test1.exe	ec69622effffe9f3
+543	671	7401260443706871	test/test2.exe	f39cf8abf417caa4

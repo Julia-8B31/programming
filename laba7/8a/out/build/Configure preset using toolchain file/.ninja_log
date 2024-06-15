@@ -1,0 +1,6 @@
+# ninja log v5
+38	1319	7396383316152458	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	5f999de3d563dcf7
+25	1561	7396383318580465	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	5397eed4e1839ef4
+5	1594	7396383318892329	gtests/CMakeFiles/tests.dir/tests.cpp.obj	8dfb6a33ee7ef79b
+18	3221	7396383335131683	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	ce5a2f2eac64c3f1
+31	7666	7396383379444611	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	ce861e29ce6501fa

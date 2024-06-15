@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/Programming/lab_4/programming/laba_7/6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\laba7.dir\\mainn.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_7\\6\\mainn.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_7\\6\\mainn.cpp",
+  "output": "CMakeFiles\\laba7.dir\\mainn.cpp.obj"
+},
+{
+  "directory": "D:/Programming/lab_4/programming/laba_7/6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Programming/lab_4/programming/laba_7/6 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o test\\CMakeFiles\\test1.dir\\test1.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_7\\6\\test\\test1.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_7\\6\\test\\test1.cpp",
+  "output": "test\\CMakeFiles\\test1.dir\\test1.cpp.obj"
+},
+{
+  "directory": "D:/Programming/lab_4/programming/laba_7/6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Programming/lab_4/programming/laba_7/6 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o test\\CMakeFiles\\test1.dir\\__\\mainn.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_7\\6\\mainn.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_7\\6\\mainn.cpp",
+  "output": "test\\CMakeFiles\\test1.dir\\__\\mainn.cpp.obj"
+},
+{
+  "directory": "D:/Programming/lab_4/programming/laba_7/6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Programming/lab_4/programming/laba_7/6 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o test\\CMakeFiles\\test2.dir\\test2.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_7\\6\\test\\test2.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_7\\6\\test\\test2.cpp",
+  "output": "test\\CMakeFiles\\test2.dir\\test2.cpp.obj"
+},
+{
+  "directory": "D:/Programming/lab_4/programming/laba_7/6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Programming/lab_4/programming/laba_7/6 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o test\\CMakeFiles\\test2.dir\\__\\mainn.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_7\\6\\mainn.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_7\\6\\mainn.cpp",
+  "output": "test\\CMakeFiles\\test2.dir\\__\\mainn.cpp.obj"
+},
+{
+  "directory": "D:/Programming/lab_4/programming/laba_7/6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Programming/lab_4/programming/laba_7/6 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o test\\CMakeFiles\\test3.dir\\test3.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_7\\6\\test\\test3.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_7\\6\\test\\test3.cpp",
+  "output": "test\\CMakeFiles\\test3.dir\\test3.cpp.obj"
+},
+{
+  "directory": "D:/Programming/lab_4/programming/laba_7/6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Programming/lab_4/programming/laba_7/6 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o test\\CMakeFiles\\test3.dir\\__\\mainn.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_7\\6\\mainn.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_7\\6\\mainn.cpp",
+  "output": "test\\CMakeFiles\\test3.dir\\__\\mainn.cpp.obj"
+}
+]
