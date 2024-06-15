@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Programming/lab_4/programming/laba_8/1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\laba_8.dir\\main.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_8\\1\\main.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_8\\1\\main.cpp",
+  "output": "CMakeFiles\\laba_8.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/Programming/lab_4/programming/laba_8/1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\laba_8.dir\\hash.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_8\\1\\hash.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_8\\1\\hash.cpp",
+  "output": "CMakeFiles\\laba_8.dir\\hash.cpp.obj"
+}
+]
