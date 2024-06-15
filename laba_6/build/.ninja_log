@@ -1,0 +1,6 @@
+# ninja log v5
+1	383	7401442543894731	CMakeFiles/laba6.dir/main.cpp.obj	8e1c851b21d40e30
+13	429	7401442544353540	CMakeFiles/laba6.dir/downsampling.cpp.obj	806987fd4897cd37
+8	403	7401442544095896	CMakeFiles/laba6.dir/convolution.cpp.obj	517301b43e7fec7f
+429	543	7401442545426441	laba6.exe	e491345df4284943
+5	418	7401442544254912	CMakeFiles/laba6.dir/matrix.cpp.obj	2c6a416194a2bf2c

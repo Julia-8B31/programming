@@ -1,0 +1,3 @@
+D:/Programming/lab_4/programming/laba_6/build/CMakeFiles/laba6.dir
+D:/Programming/lab_4/programming/laba_6/build/CMakeFiles/edit_cache.dir
+D:/Programming/lab_4/programming/laba_6/build/CMakeFiles/rebuild_cache.dir

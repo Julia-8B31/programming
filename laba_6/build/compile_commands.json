@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/Programming/lab_4/programming/laba_6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\laba6.dir\\main.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_6\\main.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_6\\main.cpp",
+  "output": "CMakeFiles\\laba6.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/Programming/lab_4/programming/laba_6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\laba6.dir\\matrix.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_6\\matrix.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_6\\matrix.cpp",
+  "output": "CMakeFiles\\laba6.dir\\matrix.cpp.obj"
+},
+{
+  "directory": "D:/Programming/lab_4/programming/laba_6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\laba6.dir\\convolution.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_6\\convolution.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_6\\convolution.cpp",
+  "output": "CMakeFiles\\laba6.dir\\convolution.cpp.obj"
+},
+{
+  "directory": "D:/Programming/lab_4/programming/laba_6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\laba6.dir\\downsampling.cpp.obj -c D:\\Programming\\lab_4\\programming\\laba_6\\downsampling.cpp",
+  "file": "D:\\Programming\\lab_4\\programming\\laba_6\\downsampling.cpp",
+  "output": "CMakeFiles\\laba6.dir\\downsampling.cpp.obj"
+}
+]
